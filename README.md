@@ -1,4 +1,4 @@
- 
+<img align ="center" src="https://raw.githubusercontent.com/Chandana1709/Chandana1709/main/githubbanner.mp4"/> 
 <h1 align="center">Hi 👋, I'm Chandana M</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
