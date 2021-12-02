@@ -1,4 +1,4 @@
-<img align ="center" src="https://raw.githubusercontent.com/chandana1709/chandana1709/main/githubbanner.mp4"> 
+<video align ="center" width="520" height="340" src="https://raw.githubusercontent.com/chandana1709/chandana1709/main/githubbanner.mp4" type="video/mp4"> </video>
 <h1 align="center">Hi 👋, I'm Chandana M</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chandanamanjunath1986@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am fdunny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
