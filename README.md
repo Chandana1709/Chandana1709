@@ -1,3 +1,4 @@
+ <img align ="right" alt="coding" width="1200" src="C:\Users\Chandana M\Downloads\githubbanner.mp4">
 <h1 align="center">Hi 👋, I'm Chandana M</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
