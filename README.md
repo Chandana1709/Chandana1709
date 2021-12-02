@@ -1,4 +1,4 @@
-<img align ="center" width="900" height="290" src="https://www.canva.com/design/DAExYbRzVwM/qd3ziulCEOW-8N4MwhHuAA/view?utm_content=DAExYbRzVwM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
+
 <h1 align="center">Hi 👋, I'm Chandana M </h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
