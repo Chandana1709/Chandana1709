@@ -1,5 +1,5 @@
-<video align ="center" width="520" height="340" src="https://github.com/Chandana1709/Chandana1709/blob/85bd0c1c0ff687716d6177b877b8b88eb144d20c/githubbanner.mp4"> </video>
-<h1 align="center">Hi 👋, I'm Chandana M</h1>
+<img align ="center" width="520"  src="https://raw.githubusercontent.com/Chandana1709/Chandana1709/main/Gitbanner.png"/>
+<h1 align="center">Hi 👋, I'm Chandana M </h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandana1709&label=Profile%20views&color=0e75b6&style=flat" alt="chandana1709" /> </p>
