@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **UI/UX Design**
 
-- 📫 How to reach me **chandanamanjunath1986@gmail.com**
+- 📫 How to reach me **chandanam1709@gmail.com**
 
-- ⚡ Fun fact **I think I am fdunny**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
