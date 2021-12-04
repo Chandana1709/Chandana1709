@@ -1,3 +1,4 @@
+![Gitbanner](https://user-images.githubusercontent.com/95367438/144710803-bef59e45-b0bb-4029-bed2-678d4b261e5d.png)
 
 <h1 align="center">Hi 👋, I'm Chandana M </h1>
 <h3 align="center">A passionate full stack developer from India</h3>
